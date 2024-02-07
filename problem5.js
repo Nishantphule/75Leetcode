@@ -1,3 +1,5 @@
+// reverse vowels of a string
+
 var reverseVowels = function (s) {
     let newS = s.split("")
     let arr = [];

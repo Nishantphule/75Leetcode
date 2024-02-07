@@ -1,3 +1,5 @@
+// merge strings alternately
+
 var mergeAlternately = function (word1, word2) {
     const word3 = word1.split("");
     const word4 = word2.split("");

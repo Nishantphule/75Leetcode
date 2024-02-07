@@ -1,3 +1,5 @@
+// can place flowers
+
 var canPlaceFlowers = function (flowerbed, n) {
     if (flowerbed.length === 1 && n >= 1) {
         return !flowerbed[0]
